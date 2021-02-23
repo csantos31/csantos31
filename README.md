@@ -3,7 +3,13 @@
 ```markdown
 
 ![grab-landing-page](https://github.com/csantos31/csantos31/blob/main/200w_s.gif)
-![](200w_s.gif)
+
+![](http://i.imgur.com/OUkLi.gif)
+
+![](http://i.imgur.com/Ssfp7.gif)
+
+![](http://i.imgur.com/60bts.gif)
+
 
 # Cyntia Santos
 
