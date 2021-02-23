@@ -3,6 +3,8 @@
 ```markdown
 
 ![grab-landing-page](https://github.com/csantos31/csantos31/blob/main/200w_s.gif)
+![](200w_s.gif)
+
 # Cyntia Santos
 
 ## Olá Universo!!!! 👋
