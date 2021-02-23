@@ -5,6 +5,8 @@
 ![dattebayo](https://github.com/csantos31/csantos31/blob/main/dattebayo.gif)
 
 
+![](dattebayo.gif)
+
 
 
 # Cyntia Santos
