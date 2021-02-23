@@ -8,6 +8,11 @@
 Inline-style: 
 ![alt text](https://github.com/csantos31/csantos31/blob/main/dattebayo.gif "Logo Title Text 1")
 
+Reference-style: 
+![alt text][dattebayo]
+
+[dattebayo]: https://github.com/csantos31/csantos31/blob/main/dattebayo.gif "Logo Title Text 2"
+
 
 
 # Cyntia Santos
