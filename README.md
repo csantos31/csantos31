@@ -1,9 +1,7 @@
 
 
 ```markdown
-<img width="auto" src="https://media.giphy.com/media/G3FNI3FneNjiw/giphy.gif">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](https://github.com/csantos31/csantos31/blob/main/200w_s.gif)
 
 # Cyntia Santos
 
