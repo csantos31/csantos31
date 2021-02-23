@@ -1,7 +1,8 @@
 
 
 ```markdown
-![Alt Text](https://media.giphy.com/media/G3FNI3FneNjiw/giphy.gif)
+<img width="auto" src="https://media.giphy.com/media/G3FNI3FneNjiw/giphy.gif">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 # Cyntia Santos
 
 ## Olá Universo!!!! 👋
