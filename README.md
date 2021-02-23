@@ -5,7 +5,8 @@
 ![dattebayo](https://github.com/csantos31/csantos31/blob/main/dattebayo.gif)
 
 
-![](dattebayo.gif)
+Inline-style: 
+![alt text](https://github.com/csantos31/csantos31/blob/main/dattebayo.gif "Logo Title Text 1")
 
 
 
