@@ -2,16 +2,16 @@
 
 ```markdown
 
-![dattebayo](https://github.com/csantos31/csantos31/blob/main/dattebayo.gif)
+![dattebayo](https://raw.githubusercontent.com/csantos31/csantos31/main/dattebayo.gif)
 
 
 Inline-style: 
-![alt text](https://github.com/csantos31/csantos31/blob/main/dattebayo.gif)
+![alt text](https://raw.githubusercontent.com/csantos31/csantos31/main/dattebayo.gif)
 
 Reference-style: 
 ![alt text][dattebayo]
 
-[dattebayo]: https://github.com/csantos31/csantos31/blob/main/dattebayo.gif
+[dattebayo]: https://raw.githubusercontent.com/csantos31/csantos31/main/dattebayo.gif
 
 
 
