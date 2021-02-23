@@ -2,7 +2,7 @@
 
 ```markdown
 
-![til](https://github.com/csantos31/csantos31/blob/main/200w_s.gif)
+![dattebayo](https://github.com/csantos31/csantos31/blob/main/dattebayo.gif)
 
 
 
