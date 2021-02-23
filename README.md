@@ -1,17 +1,8 @@
-
-
 ```markdown
 
-![dattebayo](https://raw.githubusercontent.com/csantos31/csantos31/main/dattebayo.gif)
 
-
-Inline-style: 
-![alt text](https://raw.githubusercontent.com/csantos31/csantos31/main/dattebayo.gif)
-
-Reference-style: 
-![alt text][dattebayo]
-
-[dattebayo]: https://raw.githubusercontent.com/csantos31/csantos31/main/dattebayo.gif
+[dattebayo]: 
+![Dattebayo](https://raw.githubusercontent.com/csantos31/csantos31/main/dattebayo.gif)
 
 
 
