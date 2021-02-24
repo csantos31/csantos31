@@ -1,3 +1,6 @@
+```markdown
+
+
 ![Dattebayo Naruto](https://i.pinimg.com/originals/ad/99/7e/ad997e64d46819bf9b5497de6a519c9c.gif)
 
 # Cyntia Santos
@@ -16,3 +19,4 @@ Sou desenvolvedora, atualmente trabalho como desenvolvedora fullstack,
  <br/>   📫 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:4871442/?edit=true) 
 | 
  
+ ```
