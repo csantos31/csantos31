@@ -9,7 +9,7 @@ Sou desenvolvedora, atualmente trabalho como desenvolvedora fullstack,
  <br/>    💙 &nbsp; Agora estou estudando React, node e infra, React porque eu gosto MUITO e infra porque acho importante
  <br/>    💻 &nbsp; Minha stack: ReactJS, Node.js, Typescript, angular, Java (android), Azure & AWS
  <br/>    😊 &nbsp; Posso te ajudar com JS, PHP, Java, .Net, mobile, e banco de dados (mySql, SQLServer, mariaDB, MongoDB)
- <br/>    📱 &nbsp; Whatsapp: +55 11 983257263
+ <br/>    📱 &nbsp;  Whatsapp: +55 11 983257263
  <br/>    💬  &nbsp; Sobre mim: AMO Cubos mágicos e quebra-cabeças do gênero, gosto de ler, gosto MUITO de Naruto (Assisti o clássico e o Shippuden em 4 meses Sem pular os fillers haha
  <br/>    📫 &nbsp; Entre em contato comigo: [Linkedin](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:4871442/?edit=true)
  
