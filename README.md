@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csantos31&show_icons=true&locale=en&layout=compact" alt="csantos31" /></p>
 
-[//]: <> ( ![snake gif](https://github.com/csantos31/csantos31/blob/output/github-contribution-grid-snake.svg) )
+![snake gif](https://github.com/csantos31/csantos31/blob/output/github-contribution-grid-snake.svg) 
 ![Snake animation](https://github.com/csantos31/csantos31/blob/output/github-contribution-grid-snake.svg)
