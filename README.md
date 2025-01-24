@@ -2,7 +2,7 @@
 <h3 align="center">A developer in Brazil</h3>
 <img align="right" alt="codding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-- 🔭 I’m currently working on [Far.me](https://farme.com.br/)
+- 🔭 I’m currently looking for new opportunities
 
 - 🌱 I’m currently learning **Design Patterns and good practices**
 
