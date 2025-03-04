@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Design Patterns and good practices**
 
-- 👨‍💻 My portfolio is at [https://csantos31.github.io/hello-universe/](https://csantos31.github.io/hello-universe/)
+- 👨‍💻 My portfolio is at [cyntia-santos](https://cyntia-santos.vercel.app/)
 - 👀 My profile on [Trampos.co](https://trampos.co/hello_cy):
   
 - 💬 Ask me about **dotnet, react, vueJS and python**
