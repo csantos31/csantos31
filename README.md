@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cyntia-santos-518666137/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/cyntia-santos-518666137/" height="30" /></a>
+<a href="https://www.linkedin.com/in/cyntia-santos-518666137/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/cyntia-santos-518666137/" height="30" /></a>
 <a href="https://instagram.com/sra.cy_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sra.cy_" height="30"  /></a>
 <a href="https://discord.gg/cyntia4098" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="cyntia4098" height="30"  /></a>
 </p>
