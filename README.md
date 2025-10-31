@@ -2,18 +2,18 @@
 <h3 align="center">A developer in Brazil</h3>
 <img align="right" alt="codding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-- 🔭 I’m currently looking for new opportunities
+- 🔭 I’m currently working at Thoughtworks 💙
 
-- 🌱 I’m currently learning **Design Patterns and good practices**
+- 🌱 I’m currently learning **Infra (Cloud AWS), Security and good practices**
 
 - 👨‍💻 My portfolio is at [cyntia-santos](https://cyntia-santos.vercel.app/)
 - 👀 My profile on [Trampos.co](https://trampos.co/hello_cy):
   
-- 💬 Ask me about **dotnet, react, vueJS and python**
+- 💬 Ask me about **dotnet, react, vueJS, nodeJS and python**
 
 - 📫 How to reach me **cyntia.aparecida@hotmail.com**
 
-- 📄 Know about my experiences [https://csantos31.github.io/portifolio/CYNTIA-SANTOS-RESUME.pdf](https://csantos31.github.io/portifolio/CYNTIA-SANTOS-RESUME.pdf)
+- 📄 Know about my experiences [RESUME.pdf](https://csantos31.github.io/portifolio/CYNTIA-SANTOS-RESUME.pdf)
 
 - ⚡ Fun fact **I know how to solve a rubik's cube in one minute or less**
 
